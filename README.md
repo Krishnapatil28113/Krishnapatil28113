@@ -1,5 +1,6 @@
 ![logo](https://github.com/Krishnapatil28113/Krishnapatil28113/blob/main/coding.gif)
 <h1 align="center">Hi 👋, I'm Krishna Patil</h1>
+<img style="width:100%;height:3px;" src="https://github.com/Krishnapatil28113/Krishnapatil28113/blob/main/bar.gif">
 
 <h3 align="center">Flutter App Developer, NodeJs Backend Web Developer, Cloud Computing Enthusiast, DSA Enthusiast, Engineering Student At PICT, Pune.</h3>
 
