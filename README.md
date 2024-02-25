@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Patil</h1>
 <img style="width:100%;height:3px;" src="https://github.com/Krishnapatil28113/Krishnapatil28113/blob/main/bar.gif">
 
-<h3 align="center">Flutter App Developer, NodeJs Backend Web Developer, Cloud Computing Enthusiast, DSA Enthusiast, Engineering Student At PICT, Pune.</h3>
+<h3 align="center">Flutter App Developer, NodeJs Backend Developer, Cloud Computing Enthusiast, DSA Enthusiast, Engineering Student At PICT, Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapatil28113&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapatil28113" /> </p>
 
